@@ -11,6 +11,7 @@ namespace Inlämningsuppgift_2_ADO.NET
         static void Main(string[] args)
         {
             Console.WriteLine("Hello github");
+            //test
         }
     }
 }
